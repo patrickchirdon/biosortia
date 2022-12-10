@@ -28,6 +28,8 @@ https://alphafold.ebi.ac.uk/
 
 https://www.rcsb.org/
 
+https://cfmid.wishartlab.com/predict
+
 
 -------------------------------------------------
 QED Calculation--
