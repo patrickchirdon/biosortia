@@ -1,6 +1,8 @@
 RESOURCES
 
 Databases-- 
+
+
 GNPS library--
 https://ccms-ucsd.github.io/GNPSDocumentation/gnpslibraries/
 
@@ -54,6 +56,7 @@ https://medium.com/@august.allen_51342/transforming-natural-product-drug-discove
 MS2prop paper
 https://www.biorxiv.org/content/10.1101/2022.10.09.511482v2.full
 
+https://www.nature.com/articles/s41592-022-01486-3
 --------------------------------------------------------------------------------------------------------
 Compounds of interest---
 1. Ulvan -- 
@@ -72,7 +75,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6432598/
 potential partnerships--
 
 https://www.calicolabs.com/
+
 https://insilico.com/
+
 https://www.envedabio.com/
 ----------------------------------------
 
