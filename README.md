@@ -85,12 +85,19 @@ https://www.envedabio.com/
 
 TODO--- 
 ***** written reports with data that summarize methods and outcomes
+
 models for binding
+
 models for inhibition
+
 models for solubility
+
 lipinski rule of 5
+
 GUI toolkit
+
 full stack database
+
 spinoff company with LANL? 
 
 photographs of definitions from Molecular Descriptors for Chemoinformatics
