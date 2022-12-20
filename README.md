@@ -37,7 +37,7 @@ https://cfmid.wishartlab.com/predict
 QED Calculation--
 https://github.com/kevinid/molecule_generator/blob/master/rdkit_contrib/qed.py
 https://bioinformaticsreview.com/20220803/how-to-calculate-drug-likeness-using-rdkit/
-
+https://sharifsuliman1.medium.com/understanding-drug-likeness-filters-with-rdkit-and-exploring-the-withdrawn-database-ebd6b8b2921e
 -------------------------------------------------
 
 Transformers--
