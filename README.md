@@ -134,5 +134,11 @@ chemoinformatics--
 
 https://www.google.com/books/edition/Molecular_Descriptors_for_Chemoinformati/6Zp7Yrqzv8AC?hl=en&gbpv=1&dq=molecular+descriptors+for+chemoinformatics&printsec=frontcover
 
+---------------------------------------
 
+Methods
+
+Lasso regression-- least absolute shrinkage and selection operation regression is a regularized version of linear regression.  It adds a regularization term to the cost function using the l1 norm of the weight vector.   An important characteristic of lasso regression is that it tends to completely eliminate the weights of the least important features (set them to 0).  Kasso regression automatically performs feature selection and outputs a sparse model.  
+
+elastic- elastic net is a middle ground between ridge regression and lasso regression.  the regularization term is a simple mix of both ridge and lasso's regularization terms, and you can control the mix ratio r. when r=0, elastic net is equivalent o ridge regression, and when r=1, it is equivalent to lasso regression.  ridge regression is a good default to use, but if you suspect that only a few features are actually useful, you should prefer lasso or elastic since they tend to reduce the useless features' weights down to zero.  In general elastic is preferred over lasso since lasso may behave erratically when the number of features is greater than the number of training instances or when several features are strongly correlated.
 
