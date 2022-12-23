@@ -31,6 +31,7 @@ https://alphafold.ebi.ac.uk/
 https://www.rcsb.org/
 
 https://cfmid.wishartlab.com/predict
+------------------------------------------------
 
 
 -------------------------------------------------
@@ -38,6 +39,9 @@ QED Calculation--
 https://github.com/kevinid/molecule_generator/blob/master/rdkit_contrib/qed.py
 https://bioinformaticsreview.com/20220803/how-to-calculate-drug-likeness-using-rdkit/
 https://sharifsuliman1.medium.com/understanding-drug-likeness-filters-with-rdkit-and-exploring-the-withdrawn-database-ebd6b8b2921e
+PSA is a commonly used medicinal chemistry metric for the optimization of a drug's ability to permeate cells. Molecules with a polar surface area of greater than 140 angstroms squared (Å2) tend to be poor at permeating cell membranes.[1]
+https://pubmed.ncbi.nlm.nih.gov/12036371/
+https://en.wikipedia.org/wiki/Octanol-water_partition_coefficient
 -------------------------------------------------
 
 Transformers--
@@ -119,6 +123,8 @@ https://oig.hhs.gov/oei/reports/oei-09-00-00380.pdf
 Algae
 
 https://www.frontiersin.org/articles/10.3389/fpls.2020.00279/full
+https://www.newscientist.com/article/2314395-robot-made-of-magnetic-slime-could-grab-objects-inside-your-body/
+
 -------------------------------------------------------------------
 
 machine learning--
