@@ -142,3 +142,9 @@ Lasso regression-- least absolute shrinkage and selection operation regression i
 
 elastic- elastic net is a middle ground between ridge regression and lasso regression.  the regularization term is a simple mix of both ridge and lasso's regularization terms, and you can control the mix ratio r. when r=0, elastic net is equivalent o ridge regression, and when r=1, it is equivalent to lasso regression.  ridge regression is a good default to use, but if you suspect that only a few features are actually useful, you should prefer lasso or elastic since they tend to reduce the useless features' weights down to zero.  In general elastic is preferred over lasso since lasso may behave erratically when the number of features is greater than the number of training instances or when several features are strongly correlated.
 
+How good is a regression?
+Statisticians have come up with a tool that’s easy to understand. It is called 𝑹𝟐 .
+
+Typically, R square is looked at as a percentage value, and it can range from 0% to 100%. The higher it is,
+the greater the explanatory power of the regression model (the lower the weight of unexplained
+squares, the better the model).
