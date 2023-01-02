@@ -99,7 +99,9 @@ https://www.biorxiv.org/content/10.1101/2022.10.09.511482v2.full
 https://www.nature.com/articles/s41592-022-01486-3
 --------------------------------------------------------------------------------------------------------
 
-ADME
+ADME--
+
+
 https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201600182
 https://pubs.acs.org/doi/abs/10.1021/ci500467k
 https://pubmed.ncbi.nlm.nih.gov/19827778/
@@ -187,9 +189,26 @@ Lasso regression-- least absolute shrinkage and selection operation regression i
 elastic- elastic net is a middle ground between ridge regression and lasso regression.  the regularization term is a simple mix of both ridge and lasso's regularization terms, and you can control the mix ratio r. when r=0, elastic net is equivalent o ridge regression, and when r=1, it is equivalent to lasso regression.  ridge regression is a good default to use, but if you suspect that only a few features are actually useful, you should prefer lasso or elastic since they tend to reduce the useless features' weights down to zero.  In general elastic is preferred over lasso since lasso may behave erratically when the number of features is greater than the number of training instances or when several features are strongly correlated.
 
 How good is a regression?
-Statisticians have come up with a tool that’s easy to understand. It is called r^2. Typically, R square is looked at as a percentage value, and it can range from 0% to 100%. The higher it is,
-the greater the explanatory power of the regression model (the lower the weight of unexplained
-squares, the better the model).
+
+statisticians have come up with a tool that’s easy to understand. It is called r^2. Typically, R square is looked at as a percentage value, and it can range from 0% to 100%. The higher it is,the greater the explanatory power of the regression model (the lower the weight of unexplained squares, the better the model).
+
+import sklearn
+from sklearn.linear_model import LinearRegression
+
+X, y = df[['x1','x2']], df[['y']]
+
+model=LinearRegression().fit(X, y)
+
+Rsq = model.score
+
+fstat = (Rsq/(1-Rsq))*((N-K-1)/K) #you should find N and K yourself
+To find the p-value, you can use the python package symbulate
+
+import symbulate as sm
+
+dfN = 5 -1 #degrees of freedom in the numerator of F-statistic
+dfD = 2 -1 #degrees of freedom in the denominator of F-statistic
+pVal = 1-sm.F(dfN,dfD).cdf(fstat)
 ------------------------------------------
 books
   https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
