@@ -1,3 +1,14 @@
+Results
+
+for solubility lasso lars had r^2 of 1, lasso r^2 of 1, and elastic r^2 of 1 on test data.
+bioavailability-- lasso lars had a r^2 of 1 on test data, lasso r^2 of 1, and elastic r^2 of 1.
+for fraction of sp3 hybridized carbons (a measure of selectivity of binding)-- lasso lars had a r^2 of 1 on training data (first model for lasso lars to work), lasso r^2 of 1, and elastic r^2 of 1.
+alogp and psa with an r^2 of 1 on test data. 
+mglur5 (autism target), hsp90a (neuroinflammatory target), calpain 1 (covid 19 target), aphid mortality model. r^2 of 1 with elastic, lasso, and lasso_lars models
+
+
+
+
 RESOURCES
 
 https://openmolecules.org/datawarrior/
@@ -31,6 +42,11 @@ https://alphafold.ebi.ac.uk/
 https://www.rcsb.org/
 
 https://cfmid.wishartlab.com/predict
+
+https://massbank.eu/MassBank/Search
+
+http://www.swissadme.ch
+
 ------------------------------------------------
 
 
@@ -40,8 +56,20 @@ https://github.com/kevinid/molecule_generator/blob/master/rdkit_contrib/qed.py
 https://bioinformaticsreview.com/20220803/how-to-calculate-drug-likeness-using-rdkit/
 https://sharifsuliman1.medium.com/understanding-drug-likeness-filters-with-rdkit-and-exploring-the-withdrawn-database-ebd6b8b2921e
 PSA is a commonly used medicinal chemistry metric for the optimization of a drug's ability to permeate cells. Molecules with a polar surface area of greater than 140 angstroms squared (Å2) tend to be poor at permeating cell membranes.[1]
+
+for CNS compounds, moderately polar (PSA<79 Å2) and relatively lipophilic (log P from +0.4 to +6.0) molecules have a high probability to access the CNS.
 https://pubmed.ncbi.nlm.nih.gov/12036371/
 https://en.wikipedia.org/wiki/Octanol-water_partition_coefficient
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2628535/
+https://pubmed.ncbi.nlm.nih.gov/12036371/
+
+source of the SMARTS structures used by the QED algorithm-- https://application.wiley-vch.de/contents/jc_2452/2008/f700139_s.pdf
+**To do-- look these up on mass bank.
+
+https://pubmed.ncbi.nlm.nih.gov/22270643/
+
+rotatable bonds also influence oral bioavailability according to the article above.
+octanol-water partition coefficient (ALOGP, a measure of solubility) and psa/polar surface area (cell permeability)
 -------------------------------------------------
 
 Transformers--
@@ -66,6 +94,14 @@ https://www.biorxiv.org/content/10.1101/2022.10.09.511482v2.full
 
 https://www.nature.com/articles/s41592-022-01486-3
 --------------------------------------------------------------------------------------------------------
+
+ADME
+https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201600182
+https://pubs.acs.org/doi/abs/10.1021/ci500467k
+https://pubmed.ncbi.nlm.nih.gov/19827778/
+https://pubmed.ncbi.nlm.nih.gov/15857122/
+https://www.nature.com/articles/srep42717
+--------------------------------------
 Compounds of interest---
 1. Ulvan -- 
 https://www.jpost.com/health-and-wellness/could-seaweed-save-humanity-from-covid-19-687775
@@ -87,6 +123,8 @@ https://www.calicolabs.com/
 https://insilico.com/
 
 https://www.envedabio.com/
+
+https://www.energy.gov/osdbu/small-business-toolbox
 ----------------------------------------
 
 TODO--- 
@@ -148,3 +186,9 @@ Statisticians have come up with a tool that’s easy to understand. It is called
 Typically, R square is looked at as a percentage value, and it can range from 0% to 100%. The higher it is,
 the greater the explanatory power of the regression model (the lower the weight of unexplained
 squares, the better the model).
+------------------------------------------
+books
+  https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
+    https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
+    
+  
