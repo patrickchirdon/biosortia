@@ -81,6 +81,10 @@ https://github.com/jadore801120/attention-is-all-you-need-pytorch
 mass genie-- 
 'Our transformer encoder, written in PyTorch, is composed of 12 transformer encoder layers plus 12 transformer decoder layers. The output dimensionality of all the sub-layers, as well as the embedding layers in both encoder and decoder, was set to 1024. Besides this, each Multi-Head attention layer of our transformer model was formed of 16 attention heads in total. We used dropout [89] heavily; its value for the complete transformer model was set to 20%. Lastly, the dimensionality of the feed-forward layer present inside all of the transformer encoder and decoder layers, and applied to every position individually, was set at 4096.'
 
+https://metabolomics.blog/2021/07/msnovelist/
+
+in an evaluation with 3,863 MS2 spectra from the Global Natural Product Social Molecular Networking site, MSNovelist predicted 25% of structures correctly on first rank, retrieved 45% of structures overall and reproduced 61% of correct database annotations, without having ever seen the structure in the training phase. Similarly, for the CASMI 2016 challenge, MSNovelist correctly predicted 26% and retrieved 57% of structures, recovering 64% of correct database annotations.
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699281/
 
 
@@ -125,6 +129,8 @@ https://insilico.com/
 https://www.envedabio.com/
 
 https://www.energy.gov/osdbu/small-business-toolbox
+
+https://www.trialspark.com/
 ----------------------------------------
 
 TODO--- 
@@ -181,14 +187,10 @@ Lasso regression-- least absolute shrinkage and selection operation regression i
 elastic- elastic net is a middle ground between ridge regression and lasso regression.  the regularization term is a simple mix of both ridge and lasso's regularization terms, and you can control the mix ratio r. when r=0, elastic net is equivalent o ridge regression, and when r=1, it is equivalent to lasso regression.  ridge regression is a good default to use, but if you suspect that only a few features are actually useful, you should prefer lasso or elastic since they tend to reduce the useless features' weights down to zero.  In general elastic is preferred over lasso since lasso may behave erratically when the number of features is greater than the number of training instances or when several features are strongly correlated.
 
 How good is a regression?
-Statisticians have come up with a tool that’s easy to understand. It is called 𝑹𝟐 .
-
-Typically, R square is looked at as a percentage value, and it can range from 0% to 100%. The higher it is,
+Statisticians have come up with a tool that’s easy to understand. It is called r^2. Typically, R square is looked at as a percentage value, and it can range from 0% to 100%. The higher it is,
 the greater the explanatory power of the regression model (the lower the weight of unexplained
 squares, the better the model).
 ------------------------------------------
 books
   https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
-    https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
-    
   
