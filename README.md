@@ -68,8 +68,7 @@ source of the SMARTS structures used by the QED algorithm-- https://application.
 
 https://pubmed.ncbi.nlm.nih.gov/22270643/
 
-rotatable bonds also influence oral bioavailability according to the article above.
-octanol-water partition coefficient (ALOGP, a measure of solubility) and psa/polar surface area (cell permeability)
+rotatable bonds also influence oral bioavailability according to the article above. octanol-water partition coefficient (ALOGP, a measure of solubility) and psa/polar surface area (cell permeability)
 -------------------------------------------------
 
 Transformers--
