@@ -192,23 +192,7 @@ How good is a regression?
 
 statisticians have come up with a tool that’s easy to understand. It is called r^2. Typically, R square is looked at as a percentage value, and it can range from 0% to 100%. The higher it is,the greater the explanatory power of the regression model (the lower the weight of unexplained squares, the better the model).
 
-import sklearn
-from sklearn.linear_model import LinearRegression
 
-X, y = df[['x1','x2']], df[['y']]
-
-model=LinearRegression().fit(X, y)
-
-Rsq = model.score
-
-fstat = (Rsq/(1-Rsq))*((N-K-1)/K) #you should find N and K yourself
-To find the p-value, you can use the python package symbulate
-
-import symbulate as sm
-
-dfN = 5 -1 #degrees of freedom in the numerator of F-statistic
-dfD = 2 -1 #degrees of freedom in the denominator of F-statistic
-pVal = 1-sm.F(dfN,dfD).cdf(fstat)
 ------------------------------------------
 books
   https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
