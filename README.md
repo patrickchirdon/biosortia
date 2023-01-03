@@ -63,12 +63,14 @@ https://en.wikipedia.org/wiki/Octanol-water_partition_coefficient
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2628535/
 https://pubmed.ncbi.nlm.nih.gov/12036371/
 
+rotatable bonds also influence oral bioavailability according to the article above. octanol-water partition coefficient (ALOGP, a measure of solubility) and psa/polar surface area (cell permeability)
+
 source of the SMARTS structures used by the QED algorithm-- https://application.wiley-vch.de/contents/jc_2452/2008/f700139_s.pdf
 **To do-- look these up on mass bank.
 
 https://pubmed.ncbi.nlm.nih.gov/22270643/
 
-rotatable bonds also influence oral bioavailability according to the article above. octanol-water partition coefficient (ALOGP, a measure of solubility) and psa/polar surface area (cell permeability)
+
 -------------------------------------------------
 
 Transformers--
