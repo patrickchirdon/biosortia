@@ -6,6 +6,12 @@ for fraction of sp3 hybridized carbons (a measure of selectivity of binding)-- l
 alogp and psa with an r^2 of 1 on test data. 
 mglur5 (autism target), hsp90a (neuroinflammatory target), calpain 1 (covid 19 target), aphid mortality model. r^2 of 1 with elastic, lasso, and lasso_lars models
 
+on the QED test data set--
+Mean absolute error: 0.14206431066163
+Mean squared error: 0.84021645902190
+Root mean squared error: 0.91663
+
+
 https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
 
 
