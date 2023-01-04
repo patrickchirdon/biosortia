@@ -12,6 +12,8 @@ https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
 
 RESOURCES
 
+https://www.rosettacommons.org/
+
 https://openmolecules.org/datawarrior/
 
 Databases-- 
