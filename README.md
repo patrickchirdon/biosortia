@@ -80,6 +80,8 @@ source of the SMARTS structures used by the QED algorithm-- https://application.
 https://pubmed.ncbi.nlm.nih.gov/22270643/
 
 
+
+
 -------------------------------------------------
 
 Transformers--
@@ -111,12 +113,15 @@ https://www.nature.com/articles/s41592-022-01486-3
 
 ADME--
 
+https://aip.scitation.org/doi/pdf/10.1063/1.4937259
 
 https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201600182
 https://pubs.acs.org/doi/abs/10.1021/ci500467k
 https://pubmed.ncbi.nlm.nih.gov/19827778/
 https://pubmed.ncbi.nlm.nih.gov/15857122/
 https://www.nature.com/articles/srep42717
+
+The Egan rule considers good bioavailability for compounds with 0 ≥ tPSA ≤ 132 Å2 and -1≥ logP ≤ 6 [15]. The Bayer Oral Physchem Score is computed using a Bayer in house system to flag chemical compounds and it takes values between 0 and 10.
 --------------------------------------
 Compounds of interest---
 1. Ulvan -- 
