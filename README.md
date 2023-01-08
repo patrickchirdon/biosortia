@@ -207,6 +207,7 @@ How good is a regression?
 
 statisticians have come up with a tool that’s easy to understand. It is called r^2. Typically, R square is looked at as a percentage value, and it can range from 0% to 100%. The higher it is,the greater the explanatory power of the regression model (the lower the weight of unexplained squares, the better the model).
 
+https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee
 
 ------------------------------------------
 books
