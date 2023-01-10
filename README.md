@@ -131,12 +131,20 @@ https://www.jpost.com/health-and-wellness/could-seaweed-save-humanity-from-covid
 https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202206367
 Ulvan is a plastic similar to PEI.  It's useful for covid 19 and for agriculture viruses.
 https://www.newscientist.com/article/2341170-battery-made-using-seaweed-still-works-after-charging-1000-times/?utm_medium=social&utm_campaign=echobox&utm_source=Facebook#Echobox=1665398953
+https://www.sciencedirect.com/science/article/pii/S2211926418308373
 
 
 2. Alginate nanoparticles coated with antibodies for tumors-- partner with freenome?
 https://www.science.org/doi/10.1126/science.abq6990?utm_campaign=SciMag&utm_medium=ownedSocial&utm_source=LinkedIn&cookieSet=1
 https://www.freenome.com/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6432598/
+
+3.Gratzel cells
+https://www.researchgate.net/publication/256549423_Brown_seaweed_pigment_as_a_dye_source_for_photoelectrochemical_solar_cells
+
+4. omega 3
+
+5. sunscreen
 
 --------------------------------------------------------------
 potential partnerships--
