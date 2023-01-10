@@ -192,7 +192,7 @@ https://www.newscientist.com/article/2314395-robot-made-of-magnetic-slime-could-
 
 machine learning--
 https://mml-book.github.io/book/mml-book.pdf
-
+https://www.google.com/books/edition/Hands_On_Machine_Learning_with_Scikit_Le/HnetDwAAQBAJ?hl=en&gbpv=1&dq=hands+on+machine+learning&printsec=frontcover
 chemoinformatics-- 
 
 https://www.google.com/books/edition/Molecular_Descriptors_for_Chemoinformati/6Zp7Yrqzv8AC?hl=en&gbpv=1&dq=molecular+descriptors+for+chemoinformatics&printsec=frontcover
