@@ -1,0 +1,75 @@
+compound	Predicted logp	actual logp	predicted psa	actual psa		
+acetaminophen	0.25363633	1.0176	8.2222	49.33		
+aminophylline	0.00464113	-0.3112	2.23584	69.3		
+amytryptilene	0.004802448	4.4056	0.12463	3.24		Root Mean Square Error PSA: 48.958
+buprenorphine	4.34238	4.3417	62.16003	62.16		Root Mean Square Error LogP 2.638
+carbamazepine	0.5856055	3.1187	5.7917	5.7917		
+celecoxib	0.46092477	2.5888	9.59634	86.36		
+chlorpromazine	1.0341448	4.6069	4.54032	31.78		Mean Absolute Error LogP: 2.351
+citalopram	0.13973	2.7864	1.81323	36.26		Mean Absolute Error PSA: 41.582
+clonidine	0.64862335	2.2313	7.28442	7.28442		
+cocaine	0.5013351	1.8508	9.30727	9.30727		
+codeine	0.29558185	1.5324	5.99043	41.93		
+dexamethasone	0.02065472	1.2884	0.84696	94.83		LogP Correlation Coefficient (R2) is: 0.11
+diclofenac	0.1405129	3.8852	1.23347	1.23347		
+dexamethasone	0.0160144210.01159	1.2884	0.84696	94.83		'LogP Pearson''s correlation coefficient(R) is: 0.331'
+dihydrocodene	0.07691938	1.8078	0.84696	41.93		PSA Correlation Coefficient (R2) is: 0.054
+dihydroergotamine	0.7114927	3.3492	16.88834	118.21		
+droperidol	0.5118497	3.4571	5.85048	52.65		'PSA Pearson''s correlation coefficient(R) is: 0.233'
+duloxetine	0.49762207	3.8368	3.80808	49.5		
+ephedrine	0.3606176	0.7353	10.75378	32.26		low correlation for logP
+etodolac	0.059634194	2.9812	1.19871	62.32		
+fenfluramine	0.25464827	3.06	0.22282	12.03		
+fentanyl	1.4043113	4.4164	4.71027	23.55		
+fluoxetine	0.25904357	3.6241	9.07025	21.26		
+flurorazepam	0.32347444	3.5978	2.56527	35.91		
+fluvoxamine	0.079338744	3.15	1.05282	56.84		
+indomethacin	0.7800889	4.0028	9.07025	68.53		
+ketoprofen	0.7577623	2.7003	10.87463	54.37		
+lamotrigine	0.30836767	1.596	12.95949	90.71		
+leviteracitam	-0.07164172	-0.3649	21.1342	63.4		
+maprotaline	0.26167467	3.7029	0.54689	12.03		
+mefanamic acid	1.2048359	3.3629	9.07025	49.33		
+melperone	0.6622629	3.2362	9.07025	20.31		
+meprobamate	0.1656596	0.9953	11.62762	104.64		
+methadone	1.2616806	3.5199	5.07776	20.31		
+methotrimeorazine	0.12855573	2.6638	0.91151	41.01		
+methotrimerorazine	0.1290931	4.1492	0.91151	41.01		
+methylprednisone	0.009860434	1.4107	0.46734	94.83		
+methylsergide	0.15171492	1.4619	0.84229	19.37		
+mirtazapine	0.75563776	2.6638	3.87423	19.37		
+moclopemide	0.22902524	1.3732	5.19665	41.57		
+naltrexone	0.8082225	1.5768	9.30654	46.53		
+naproxen	0.37897032	2.6947	4.23039	46.53		
+neostigmine	0.040750485	-3.3614	0.57933	29.54		
+nicergoline	0.13293384	3.3973	1.45129	56.59		
+odansetron	0.39603424	2.2259	4.42481	39.82		
+olanzepine	0.398211	3.0388	5.91152	59.11		
+oxaprozin	0.87325436	3.5595	10.55569	63.33		
+oxazepam	0.11610438	2.2758	2.37304	61.69		
+oxybutynin	0.4474884	3.4846	4.52496	49.77		
+oxycodone	0.2583222	1.1281	9.83397	59		
+paroxetine	0.5384682	3.9891	3.97235	39.72		
+pergolide	0.12347191	4.1329	0.9853	44.33		
+phentermine	0.43310228	1.8345	4.33695	26.02		
+piperacetazine	1.7432325	4.8021	17.27087	69.08		
+primodone	0.05178804	0.75	3.06354	58.2		
+remifentanil	0.50604516	2.0301	4.62033	32.34		
+ropinirole	0.5090539	2.5433	4.04281	32.34		
+sufentanil	0.8125059	4.0822	8.71776	61.02		
+sulindac	0.26244834	3.1103	4.90587	73.58		
+sulpiride	0.26993912	0.6079	22.02328	110.11		
+thiethylperazine	1.5145345	5.0535	10.05399	60.32		
+thioridiazine	1.9825362	5.5295	14.27072	57.08		
+thiothixene	2.1273532	3.8126	19.38598	77.54		
+tolmetin	0.089897886	1.58	2.05585	90.44		
+tramadol		2.2768	32.70003	32.7		
+trazodone	0.5285948	2.2135	7.06546	42.39		
+trifluroperazine	0.19975454	4.9276	7.06546	35.02		
+triphenamine	1.0858449	2.0244	4.84274	19.37		
+venlafaxine	0.19888107	2.5908	1.36269	32.7		
+ziprasidone	0.41003	2.6526362319	8.52403	76.71		
+						
+						
+'"The most familiar measure of dependence between two quantities is the Pearson product-moment correlation coefficient, or ""Pearson''s correlation coefficient"", commonly called simply ""the correlation coefficient"". The correlation coefficient is a statistical measure of the strength of the relationship between the relative movements of your two variables. The values range between -1.0 and 1.0. A calculated number less than -1.0 or greater than 1.0 means that there was an error in the measurement. A correlation of -1.0 shows a perfect correlation but negative, while a correlation with 1.0 value shows a perfect correlation in positive. A correlation with 0.0 value shows no relationship between the movement of your two variables. The correlation coefficient is widely used in all category of sciences. The correlation coefficient was developed by Karl Pearson from a related idea introduced by Francis Galton in the 1880s and for which the mathematical formula was derived and published by Auguste Bravais in 1844. Pearson''s correlation coefficient is R but R2 is squared of Pearson''s correlation coefficient."'	"MAE (Mean Absolute Error)					
+The simplest measure of forecast accuracy is called Mean Absolute Error (MAE). Mean Absolute Error is simply, as the name suggests, the mean of the absolute errors. The absolute error is the absolute value of the difference between the forecasted value and the actual value. Mean Absolute Error measures accuracy for continuous variables. Mean Absolute Error tells us how big of an error we can expect from the forecast on average. The Mean Absolute Error measures the average magnitude of the errors in a set of predictions, without considering their direction. The Mean Absolute Error is the average over the test sample of the absolute differences between prediction and actual observation where all individual differences have equal weight. Both Mean Absolute Error and Root Mean Square Error express average model prediction error in units of the variable of interest. The Mean Absolute Error and the Root Mean Square Error can range from 0 to ∞ and are indifferent to the direction of errors."	The simplest measure of forecast accuracy is called Mean Absolute Error (MAE). Mean Absolute Error is simply, as the name suggests, the mean of the absolute errors. The absolute error is the absolute value of the difference between the forecasted value and the actual value. Mean Absolute Error measures accuracy for continuous variables. Mean Absolute Error tells us how big of an error we can expect from the forecast on average. The Mean Absolute Error measures the average magnitude of the errors in a set of predictions, without considering their direction. The Mean Absolute Error is the average over the test sample of the absolute differences between prediction and actual observation where all individual differences have equal weight. Both Mean Absolute Error and Root Mean Square Error express average model prediction error in units of the variable of interest. The Mean Absolute Error and the Root Mean Square Error can range from 0 to ∞ and are indifferent to the direction of errors.					
