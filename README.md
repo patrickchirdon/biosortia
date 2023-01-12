@@ -11,7 +11,7 @@ Mean absolute error: 0.14206431066163
 Mean squared error: 0.84021645902190
 Root mean squared error: 0.91663
 
-Test set of CNS compounds vs non CNS compounds it was not trained on r^2 of .78 for logP and .84 for PSA.
+Test set of CNS compounds vs non CNS compounds it was not trained on r^2 of .78 for logP and .84 for PSA for CNS compounds.  The non CNS compounds had a r^2 of .97 for PSA.  non CNS compounds had a logP r^2 of 1.  
 
 
 https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
