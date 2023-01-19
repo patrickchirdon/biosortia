@@ -1,0 +1,5 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+31	methotrexate	175.0712	CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O  	454.447	0.2684	12	5	210.54	9	3	0	0.294720345
+		308.122		454.447	0.2684	12	5	210.54	9	3	0	0.294720345
+		455.1776		454.447	0.2684	12	5	210.54	9	3	0	0.294720345
+		515.2516		454.447	0.2684	12	5	210.54	9	3	0	0.294720345

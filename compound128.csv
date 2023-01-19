@@ -1,0 +1,5 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+124	pyrimethamine	250.0931	CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl  	248.717	2.5238	4	2	77.82	2	2	0	0.8561371493
+		251.0873		248.717	2.5238	4	2	77.82	2	2	0	0.8561371493
+		252.0901		248.717	2.5238	4	2	77.82	2	2	0	0.8561371493
+		121.0641		248.717	2.5238	4	2	77.82	2	2	0	0.8561371493

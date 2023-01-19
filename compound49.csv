@@ -1,0 +1,3 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+47	levetiracetam	154.0856	CC[C@@H](C(=O)N)N1CCCC1=O  	170.212	-0.1273	2	1	63.4	3	0	0	0.6410492146
+		259.1352		170.212	-0.1273	2	1	63.4	3	0	0	0.6410492146

@@ -1,0 +1,4 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+34	vardenafil	490.2308	CCCC1=NC(=C2N1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)CC)OCC)C  	488.614	2.07042	7	1	112.9	8	3	0	0.5164114875
+		491.2284		488.614	2.07042	7	1	112.9	8	3	0	0.5164114875
+		121.0274		488.614	2.07042	7	1	112.9	8	3	0	0.5164114875

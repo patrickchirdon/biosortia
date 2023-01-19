@@ -1,0 +1,5 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+148	mefenamic acid	223.095	CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C  	241.29	3.74524	3	2	49.33	3	2	0	0.8600549198
+		224.1032		241.29	3.74524	3	2	49.33	3	2	0	0.8600549198
+		225.1082		241.29	3.74524	3	2	49.33	3	2	0	0.8600549198
+		112.1116		241.29	3.74524	3	2	49.33	3	2	0	0.8600549198

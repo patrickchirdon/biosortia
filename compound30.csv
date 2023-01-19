@@ -1,0 +1,5 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+29	Phenylbutazone	294.1489	CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3  	308.381	3.7878	2	0	40.62	5	2	1	0.7885515763
+		295.1542		308.381	3.7878	2	0	40.62	5	2	1	0.7885515763
+		307.1573		308.381	3.7878	2	0	40.62	5	2	1	0.7885515763
+		119.072		308.381	3.7878	2	0	40.62	5	2	1	0.7885515763

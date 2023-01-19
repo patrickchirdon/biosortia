@@ -1,0 +1,5 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+30	pioglitazone	134.0956	CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3  	356.447	3.1596	5	1	68.29	7	2	0	0.8252539098
+		135.1017		356.447	3.1596	5	1	68.29	7	2	0	0.8252539098
+		357.1279		356.447	3.1596	5	1	68.29	7	2	0	0.8252539098
+		134.0591		356.447	3.1596	5	1	68.29	7	2	0	0.8252539098

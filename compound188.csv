@@ -1,0 +1,4 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+187	butylparaben	139.0375	 CCCCOC(=O)C1=CC=C(C=C1)O  	194.23	2.3491	3	1	46.53	4	1	2	0.590786349
+		140.0403		194.23	2.3491	3	1	46.53	4	1	2	0.590786349
+		66.8		194.23	2.3491	3	1	46.53	4	1	2	0.590786349

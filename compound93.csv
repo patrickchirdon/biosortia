@@ -1,0 +1,4 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+89	fenbendazole	268.0517	COC(=O)NC1=NC2=C(N1)C=C(C=C2)SC3=CC=CC=C3  	299.355	3.8924	4	2	67.0099999	3	3	0	0.7695961013
+		300.0815		299.355	3.8924	4	2	67.0099999	3	3	0	0.7695961013
+		85		299.355	3.8924	4	2	67.0099999	3	3	0	0.7695961013

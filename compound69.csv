@@ -1,0 +1,4 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+65	sulfathiazole	212.9786	C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2  	255.324	1.526099	4	2	85.08	3	2	1	0.8143349413
+		256.0153		255.324	1.526099	4	2	85.08	3	2	1	0.8143349413
+		38.8		255.324	1.526099	4	2	85.08	3	2	1	0.8143349413

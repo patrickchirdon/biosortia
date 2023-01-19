@@ -1,0 +1,5 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+39	clofibrate	141.0108	CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl  	242.702	3.0605	3	0	35.53	4	1	1	0.7616046201
+		169.0407		242.702	3.0605	3	0	35.53	4	1	1	0.7616046201
+		186.0487		242.702	3.0605	3	0	35.53	4	1	1	0.7616046201
+		258.1273		242.702	3.0605	3	0	35.53	4	1	1	0.7616046201

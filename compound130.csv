@@ -1,0 +1,4 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+126	ketoconazole	532.1587	CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@H]3CO[C@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl 	531.44	4.2058	6	0	69.06	7	3	0	0.455414497
+		533.1532		531.44	4.2058	6	0	69.06	7	3	0	0.455414497
+		185.0597		531.44	4.2058	6	0	69.06	7	3	0	0.455414497

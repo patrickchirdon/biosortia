@@ -1,0 +1,4 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+155	miconazole	120.089	C1=CC(=C(C=C1Cl)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl  	416.135	6.4548	2	0	27.05	6	3	0	0.4616906208
+		135.0794		416.135	6.4548	2	0	27.05	6	3	0	0.4616906208
+		119.0847		416.135	6.4548	2	0	27.05	6	3	0	0.4616906208

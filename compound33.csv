@@ -1,0 +1,4 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+32	Telmisartan	516.2518	CCCC1=NC2=C(N1CC3=CC=C(C=C3)C4=CC=CC=C4C(=O)O)C=C(C=C2C)C5=NC6=CC=CC=C6N5C	500.602	7.25402	4	2	83.8	7	6	0	0.2417059409
+		517.2547		500.602	7.25402	4	2	83.8	7	6	0	0.2417059409
+		174.1104		500.602	7.25402	4	2	83.8	7	6	0	0.2417059409

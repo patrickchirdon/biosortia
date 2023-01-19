@@ -1,0 +1,5 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+33	Tylosin	772.4551	CC[C@@H]1[C@H](/C=C(/C=C/C(=O)[C@@H](C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O1)O)C)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C)O[C@H]3C[C@@]([C@H]([C@@H](O3)C)O)(C)O)N(C)C)O)CC=O)C)\C)CO[C@H]4[C@@H]([C@@H]([C@@H]([C@H](O4)C)O)OC)OC  	916.112	1.8335	18	5	238.67	13	0	2	0.130887262
+		916.5266		916.112	1.8335	18	5	238.67	13	0	2	0.130887262
+		917.5301		916.112	1.8335	18	5	238.67	13	0	2	0.130887262
+		489.2279		916.112	1.8335	18	5	238.67	13	0	2	0.130887262

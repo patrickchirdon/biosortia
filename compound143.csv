@@ -1,0 +1,3 @@
+molecule number	FDA approved name	mz	smiles	mw	alogp	hba	hbd	psa	rotb	arom	alerts	qed
+139	iohexol	821.8989	CC(=O)N(CC(CO)O)C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I  	821.141	-1.6274999	9	8	199.89	12	1	1	0.11425581
+		45.2		821.141	-1.6274999	9	8	199.89	12	1	1	0.11425581
