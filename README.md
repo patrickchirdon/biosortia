@@ -1,10 +1,12 @@
 Results
 
+library--https://hmdb.ca/metabolites?utf8=%E2%9C%93&quantified=1&blood=1&urine=1&saliva=1&csf=1&feces=1&sweat=1&breast_milk=1&bile=1&amniotic_fluid=1&other_fluids=1&microbial=1&filter=true
+
 for solubility lasso lars had r^2 of 1, lasso r^2 of 1, and elastic r^2 of 1 on test data.
 bioavailability-- lasso lars had a r^2 of 1 on test data, lasso r^2 of 1, and elastic r^2 of 1.
 for fraction of sp3 hybridized carbons (a measure of selectivity of binding)-- lasso lars had a r^2 of 1 on training data (first model for lasso lars to work), lasso r^2 of 1, and elastic r^2 of 1.
 alogp and psa with an r^2 of 1 on test data. 
-mglur5 (autism target), hsp90a (neuroinflammatory target), calpain 1 (covid 19 target), aphid mortality model. r^2 of 1 with elastic, lasso, and lasso_lars models
+mglur5 (autism target), hsp90a (neuroinflammatory target, charcot marie tooth disease), calpain 1 (covid 19 target), aphid mortality model. r^2 of 1 with elastic, lasso, and lasso_lars models
 
 on the QED test data set--
 Mean absolute error: 0.14206431066163
@@ -12,6 +14,9 @@ Mean squared error: 0.84021645902190
 Root mean squared error: 0.91663
 
 Test set of CNS compounds vs non CNS compounds it was not trained on r^2 of .78 for logP and .84 for PSA for CNS compounds.  The non CNS compounds had a r^2 of .97 for PSA.  non CNS compounds had a logP r^2 of 1.  
+
+
+ms2prop had an r2 of .73 on the independent test set across all the QED properties, we have an r2 of 88%
 
 
 https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
@@ -23,6 +28,8 @@ RESOURCES
 https://www.rosettacommons.org/
 
 https://openmolecules.org/datawarrior/
+
+https://pubchem.ncbi.nlm.nih.gov//edit3/index.html
 
 Databases-- 
 
@@ -62,7 +69,7 @@ http://www.swissadme.ch
 
 
 -------------------------------------------------
-QED Calculation--
+QED Calculation-- QED is lipinski + medicinal chemistry rules and aromatic ring count
 https://github.com/kevinid/molecule_generator/blob/master/rdkit_contrib/qed.py
 https://bioinformaticsreview.com/20220803/how-to-calculate-drug-likeness-using-rdkit/
 https://sharifsuliman1.medium.com/understanding-drug-likeness-filters-with-rdkit-and-exploring-the-withdrawn-database-ebd6b8b2921e
@@ -81,6 +88,14 @@ source of the SMARTS structures used by the QED algorithm-- https://application.
 
 https://pubmed.ncbi.nlm.nih.gov/22270643/
 
+https://pubs.acs.org/doi/10.1021/jm301008n
+https://pubs.acs.org/doi/10.1021/jm301008n
+
+https://www.linkedin.com/dms/D5606AQGeryI_9cl_7Q/messaging-attachmentFile/0/1674513398949?m=AQL5KPz_EwQh3wAAAYXkrUq6wHaqMwgb4_G7ydlgu24zKcy_ik-93L9tHg&ne=1&v=beta&t=rOhzAL2fx-vmgZ9IzqNa6rk23IVgdBAGTrDQYQ4DOpU
+
+https://www.linkedin.com/dms/D5606AQFnA5phyhh1Ww/messaging-attachmentFile/0/1674513446947?m=AQKAk--8d5TVggAAAYXkqQqA2dyAomZLVYOzG3h_wiVQ-KwhL3dijfbD6A&ne=1&v=beta&t=pVNO2cO_uWBbVDN99Hb1f8fRDkP851UyoTmTdAnB5tE
+
+https://www.linkedin.com/dms/D5606AQHFP0qB8dGvrA/messaging-attachmentFile/0/1674513472574?m=AQLnPQbbdt3KKwAAAYXkqQqE-3nS5yJDHoF_O_MTtnzO49CJczmmmJSm5A&ne=1&v=beta&t=web29rjIYFypV9EACZhoXk23w3sanlzH2ULN355LwVQ
 
 
 
@@ -111,10 +126,34 @@ MS2prop paper
 https://www.biorxiv.org/content/10.1101/2022.10.09.511482v2.full
 
 https://www.nature.com/articles/s41592-022-01486-3
+
+
+--------------------------------------------------------------------------------------------------------
+pesticides
+https://www.uky.edu/Ag/Entomology/PSEP/6environment.html
+
+soil adsorbability index
+https://www.linkedin.com/dms/D5606AQEgcWcLR_yhFg/messaging-attachmentFile/0/1674504979609?m=AQK5bavmYsSpvwAAAYXkrUq66YbktsJuyGBvBvoll0ApvRsXKvn7hpi73A&ne=1&v=beta&t=CjfffuOksOUyLZcVi4I_AwXQ4G3EerqDSSTAbbmMR7g
+
+leach indexes
+https://www.linkedin.com/dms/D5606AQEhQUv25jx_eA/messaging-attachmentFile/0/1674509768012?m=AQI0u7yWMwK2OwAAAYXkrUrC7bSEnBAHY71Z1A5kQCgM81wjpk8cDHHciw&ne=1&v=beta&t=QvkX8bDxF-egUE5_pz5i_hkGyOT4LXa0325eBtVz4UE
+https://www.linkedin.com/dms/D5606AQFkxSg1WZatqA/messaging-attachmentFile/0/1674509799625?m=AQL9miSKBIcreAAAAYXkrUq94h9EBtXcge5Vh8eyy4m4ReJsBNZkPu0k0g&ne=1&v=beta&t=iJZ7VNQX8VGbvd2IifErn1Y71oL3nR3MUd2Ntr_4foM
+
+soil sorption index coefficient
+https://www.linkedin.com/dms/D5606AQFIQK8Zma1nQg/messaging-attachmentFile/0/1674513719308?m=AQIuJhEupjf3fgAAAYXkqQqGMyUDx8SU8r54Dwa4xX7vPkZSBNbEjemC7g&ne=1&v=beta&t=oVnDAxFRH8iCRUX0e9JRsDVZncKyVLzSuEDn2SCwt5c
+
+
+----------------------------------------------------------------------------------------------------------
+binding affinity
+https://www.linkedin.com/dms/D5606AQHUpCK33-KUOg/messaging-attachmentFile/0/1674515181359?m=AQIMPcGes0W9sQAAAYXkqQqBhPDT8InzBgGRM70cRxoPdc2RqQkculIFQg&ne=1&v=beta&t=6AegRZrUODouanZ4JIFxm4OrALCbdHZHukjqM8az_qw
+https://www.linkedin.com/dms/D5606AQFmoEPphHlyvQ/messaging-attachmentFile/0/1674515187920?m=AQKF8Xh3-Y72SAAAAYXkqQp-OiETjLkYF9l85xTcB-jJ9Mb2aw0XeTUZpw&ne=1&v=beta&t=zJzQ9AmFOQId7JZy4iJeTYYQBbTaiD4pF9sGwcr4Rtg
+
+
 --------------------------------------------------------------------------------------------------------
 
 ADME--
-
+https://academic.oup.com/nar/article/49/W1/W5/6249611
+https://academic.oup.com/nar/article/45/W1/W356/3791213
 https://aip.scitation.org/doi/pdf/10.1063/1.4937259
 
 https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201600182
@@ -124,6 +163,11 @@ https://pubmed.ncbi.nlm.nih.gov/15857122/
 https://www.nature.com/articles/srep42717
 
 The Egan rule considers good bioavailability for compounds with 0 ≥ tPSA ≤ 132 Å2 and -1≥ logP ≤ 6 [15]. The Bayer Oral Physchem Score is computed using a Bayer in house system to flag chemical compounds and it takes values between 0 and 10.
+
+cns vs non-cns
+
+https://www.linkedin.com/dms/D5606AQHxRiRfXgfXIg/messaging-attachmentFile/0/1674515816273?m=AQKLDYOhLmHeGgAAAYXkqQp-2A0Ne_VAmVmP4CXrliVNj4k6oZVtU2DJGg&ne=1&v=beta&t=v2iPj_uDSoxHaD_yL6Tue_e6uFSaAe7y4PQ9k4McWDc
+
 --------------------------------------
 Compounds of interest---
 1. Ulvan -- 
@@ -145,6 +189,32 @@ https://www.researchgate.net/publication/256549423_Brown_seaweed_pigment_as_a_dy
 4. omega 3
 
 5. sunscreen
+
+------------------------------------------------------------
+papers of interest to pathology
+https://www.newscientist.com/article/2355262-vagus-nerve-receptors-may-be-key-to-controlling-inflammation/
+
+target prediction with pharmacophores
+https://academic.oup.com/nar/article/45/W1/W356/3791213
+
+ http://crdd.osdd.net/servers/avcpred/
+ 
+ http://chembl.blogspot.com/2020/05/malaria-inhibitor-prediction-platform.html
+ 
+ https://uantwerpen.vib.be/group/VincentTimmerman
+ 
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3120161/
+ 
+ https://www.harringtondiscovery.org/
+ 
+ https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-020-01291-6
+ 
+ https://rupress.org/jcb/article/220/8/e202103090/212429/The-long-journey-to-bring-a-Myc-inhibitor-to-the
+ 
+ https://time.com/6246864/reverse-aging-scientists-discover-milestone/
+ 
+ https://www.nationalgeographic.com/magazine/science/article/zombie-cells-could-hold-the-secret-to-alzheimers-cure
+ 
 
 --------------------------------------------------------------
 potential partnerships--
@@ -226,4 +296,8 @@ books
   https://www.linkedin.com/feed/update/urn:li:activity:7006165405937373184/?utm_source=share&utm_medium=member_desktop
   
   https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
+  ------------------------------------------
+  tasty treats
+  
+  https://www.submariner-network.eu/recipe-for-a-veggie-burger-with-algae
   
