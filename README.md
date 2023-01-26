@@ -1,5 +1,7 @@
 Results
 
+https://www.slideshare.net/PatrickChirdon1/biosortia2proppptx?fbclid=IwAR26psj1zzyKpBClr-FbtDCS4pg0tfsc613hVGixxt84aE5jcVqgz9NyPT8
+
 library--https://hmdb.ca/metabolites?utf8=%E2%9C%93&quantified=1&blood=1&urine=1&saliva=1&csf=1&feces=1&sweat=1&breast_milk=1&bile=1&amniotic_fluid=1&other_fluids=1&microbial=1&filter=true
 
 for solubility lasso lars had r^2 of 1, lasso r^2 of 1, and elastic r^2 of 1 on test data.
