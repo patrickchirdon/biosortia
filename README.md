@@ -192,6 +192,9 @@ https://www.researchgate.net/publication/256549423_Brown_seaweed_pigment_as_a_dy
 
 5. sunscreen
 
+6. nanoparticles-- https://www.mdpi.com/2306-5354/7/4/129
+https://www.sciencedirect.com/science/article/abs/pii/S1773224721004408
+
 ------------------------------------------------------------
 papers of interest to pathology
 https://www.newscientist.com/article/2355262-vagus-nerve-receptors-may-be-key-to-controlling-inflammation/
