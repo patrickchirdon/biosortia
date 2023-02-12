@@ -2,6 +2,8 @@ Results
 
 https://www.slideshare.net/PatrickChirdon1/biosortia2proppptx?fbclid=IwAR26psj1zzyKpBClr-FbtDCS4pg0tfsc613hVGixxt84aE5jcVqgz9NyPT8
 
+
+
 library--https://hmdb.ca/metabolites?utf8=%E2%9C%93&quantified=1&blood=1&urine=1&saliva=1&csf=1&feces=1&sweat=1&breast_milk=1&bile=1&amniotic_fluid=1&other_fluids=1&microbial=1&filter=true
 
 for solubility lasso lars had r^2 of 1, lasso r^2 of 1, and elastic r^2 of 1 on test data.
@@ -33,8 +35,12 @@ https://openmolecules.org/datawarrior/
 
 https://pubchem.ncbi.nlm.nih.gov//edit3/index.html
 
-Databases-- 
+https://www.chemdiv.com/catalog/complete-list-of-compounds-libraries/?https://www.chemdiv.com/complete-list-of-compounds-libraries/&gclid=EAIaIQobChMIh4OokPKN_QIVVAetBh075gGEEAAYAyAAEgJlPvD_BwE
 
+https://sciencesolutions.wiley.com/solutions/technique/gc-ms/mass-spectra-of-flavors-and-fragrances-of-natural-and-synthetic-compounds-3rd-edition/
+
+Databases-- 
+https://www.nature.com/articles/s41592-022-01685-y?utm_source=nmeth_etoc&utm_medium=email&utm_campaign=toc_41592_20_2&utm_content=20230211
 
 GNPS library--
 https://ccms-ucsd.github.io/GNPSDocumentation/gnpslibraries/
@@ -154,6 +160,9 @@ https://www.linkedin.com/dms/D5606AQFmoEPphHlyvQ/messaging-attachmentFile/0/1674
 --------------------------------------------------------------------------------------------------------
 
 ADME--
+
+https://admetmesh.scbdd.com/service/evaluation/index
+https://www.google.com/books/edition/Lipid_Nanoparticles_Production_Character/bOVhBAAAQBAJ?hl=en&gbpv=1&dq=lipid+nanoparticles+production+characterization+stability&printsec=frontcover
 https://academic.oup.com/nar/article/49/W1/W5/6249611
 https://academic.oup.com/nar/article/45/W1/W356/3791213
 https://aip.scitation.org/doi/pdf/10.1063/1.4937259
