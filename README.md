@@ -6,6 +6,8 @@ https://www.slideshare.net/PatrickChirdon1/biosortia2proppptx?fbclid=IwAR26psj1z
 
 library--https://hmdb.ca/metabolites?utf8=%E2%9C%93&quantified=1&blood=1&urine=1&saliva=1&csf=1&feces=1&sweat=1&breast_milk=1&bile=1&amniotic_fluid=1&other_fluids=1&microbial=1&filter=true
 
+i was able to get an r2 of one for caco permeability, half life, log S, logD, bioconcentration, lc50fm, lc50dm, fsp3, and igc50 on test data excluded from training
+
 for solubility lasso lars had r^2 of 1, lasso r^2 of 1, and elastic r^2 of 1 on test data.
 bioavailability-- lasso lars had a r^2 of 1 on test data, lasso r^2 of 1, and elastic r^2 of 1.
 for fraction of sp3 hybridized carbons (a measure of selectivity of binding)-- lasso lars had a r^2 of 1 on training data (first model for lasso lars to work), lasso r^2 of 1, and elastic r^2 of 1.
@@ -264,6 +266,8 @@ spinoff company with LANL?
 photographs of definitions from Molecular Descriptors for Chemoinformatics
 
 calculate ROC curves for each of the models, plus F1
+
+publish? https://arxiv.org/
 
 ----------------------------------------------
 
