@@ -192,6 +192,11 @@ https://www.sciencedirect.com/science/article/pii/S2211926418308373
 
 
 2. Alginate nanoparticles coated with antibodies for tumors-- partner with freenome?
+sodium alginate synthesis-- https://www.artmolds.com/sodium-alginate
+https://doctorsnutrition.com/store/sodium-alginate-60-vegetable-capsules/
+https://gut.bmj.com/content/66/Suppl_2/A140.2
+sodium alginate acts as a chelator. diseases such as IBS and ME/chronic fatigue could maybe benefit from sodium alginate chelators.
+
 https://www.science.org/doi/10.1126/science.abq6990?utm_campaign=SciMag&utm_medium=ownedSocial&utm_source=LinkedIn&cookieSet=1
 https://www.freenome.com/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6432598/
