@@ -16,6 +16,8 @@ mglur5 (autism target), hsp90a (neuroinflammatory target, charcot marie tooth di
 
 DeepChem Tox21
 
+https://github.com/patrickchirdon/tox21_toxicity_prediction
+
 train_scores: {'mean-roc_auc_score': 0.9437261510314645}
 
  test_scores: {'mean-roc_auc_score': 0.7088654555374828}
