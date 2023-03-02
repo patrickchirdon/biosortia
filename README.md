@@ -6,7 +6,7 @@ https://www.slideshare.net/PatrickChirdon1/biosortia2proppptx?fbclid=IwAR26psj1z
 
 library--https://hmdb.ca/metabolites?utf8=%E2%9C%93&quantified=1&blood=1&urine=1&saliva=1&csf=1&feces=1&sweat=1&breast_milk=1&bile=1&amniotic_fluid=1&other_fluids=1&microbial=1&filter=true
 
-i was able to get an r2 of one for caco permeability, half life, log S, logD, bioconcentration, lc50fm, lc50dm, fsp3, and igc50 on test data excluded from training
+i was able to get an r2 of one for caco permeability, half life, log S, logD, bioconcentration, lc50fm, lc50dm, fsp3, and igc50 on test data excluded from training. https://pubs.acs.org/doi/10.1021/acs.est.2c02536
 
 for solubility lasso lars had r^2 of 1, lasso r^2 of 1, and elastic r^2 of 1 on test data.
 bioavailability-- lasso lars had a r^2 of 1 on test data, lasso r^2 of 1, and elastic r^2 of 1.
@@ -75,9 +75,16 @@ https://massbank.eu/MassBank/Search
 
 http://www.swissadme.ch
 
+https://deepchem.io/
+
+https://biolynceus.net/lot-125-higher-yields-less-water-less-fertilizer/
+
+
 ------------------------------------------------
 
+dietary supplements-- https://www.liebertpub.com/doi/10.1089/aivt.2018.0020
 
+intersting startups in this space seed probiotics
 -------------------------------------------------
 QED Calculation-- QED is lipinski + medicinal chemistry rules and aromatic ring count
 https://github.com/kevinid/molecule_generator/blob/master/rdkit_contrib/qed.py
@@ -140,6 +147,9 @@ https://www.nature.com/articles/s41592-022-01486-3
 
 --------------------------------------------------------------------------------------------------------
 pesticides
+
+see company called Biolynceus
+
 https://www.uky.edu/Ag/Entomology/PSEP/6environment.html
 
 soil adsorbability index
@@ -210,6 +220,17 @@ https://www.researchgate.net/publication/256549423_Brown_seaweed_pigment_as_a_dy
 
 6. nanoparticles-- https://www.mdpi.com/2306-5354/7/4/129
 https://www.sciencedirect.com/science/article/abs/pii/S1773224721004408
+ https://royalsocietypublishing.org/doi/10.1098/rsos.171113
+ https://journals.sagepub.com/doi/abs/10.1177/0958305X19882398?journalCode=eaea
+ https://www.nature.com/articles/s44222-023-00038-4.epdf?sharing_token=Os_VKJmEtY4i1p8lTCVGxtRgN0jAjWel9jnR3ZoTv0ML8brRzKS0DXx7RKmwaKJMcxfuzGOGp7UGMu1fmE2HfRO86NCi2esT3SbH_XJsWa_L8wHDTe8U0mLNm6TdVz_o-R3-uMP4zLmBl6yzMoGqOkA6Ox7hSfg_bk34wEMH3uY%3D
+ https://www.the-scientist.com/modus-operandi/drugs-hitch-a-ride-on-algae-for-targeted-delivery-70893
+ 
+ https://www.azocleantech.com/article.aspx?ArticleID=647
+ 
+ https://www.labroots.com/trending/technology/24701/ferroelectric-semiconductor-five-nanometers-thick-expand-artificial-intelligence-sensing-capabilitie-2?fbclid=IwAR1azawE10Dt9OQYYoUiaFNaPqeWjZADNpTssJV2B_OXCVXt8waMCHLQGbY
+ 
+ https://www.pacelabs.com/life-sciences/gmp-clinical-trial-materials/solubility-bioavailability-enhancement/?utm_term=nanoparticles&utm_campaign=PLS+-+GMP&utm_source=adwords&utm_medium=ppc&hsa_acc=2195671737&hsa_cam=1614483490&hsa_grp=125240067312&hsa_ad=533130695500&hsa_src=g&hsa_tgt=kwd-338778542538&hsa_kw=nanoparticles&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI0OvZl5-t_QIV9G1vBB3-sQJUEAAYAiAAEgIsqPD_BwE
+ 
 
 ------------------------------------------------------------
 papers of interest to pathology
@@ -235,6 +256,9 @@ https://academic.oup.com/nar/article/45/W1/W356/3791213
  https://time.com/6246864/reverse-aging-scientists-discover-milestone/
  
  https://www.nationalgeographic.com/magazine/science/article/zombie-cells-could-hold-the-secret-to-alzheimers-cure
+ 
+ https://ashpublications.org/blood/article/128/22/4858/99356/Average-Monthly-Cost-of-Iron-Chelator-Treatment-in
+ chelators-- sickle cell anemia, irritable bowel syndrome, ulcerative cholitis, bind heavy metals in places like great salt lake, polyphenols
  
 
 --------------------------------------------------------------
@@ -313,14 +337,45 @@ statisticians have come up with a tool that’s easy to understand. It is called
 https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee
 
 ------------------------------------------
+
+preclinical testing---https://www.criver.com/products-services/safety-assessment/toxicology-services?creative=595929445573&keyword=genetic%2520toxicity%2520testing&matchtype=p&network=g&device=m&gclid=EAIaIQobChMInMSEz8i9_QIVGTStBh3NggBJEAAYASAAEgIG4_D_BwE&region=3601
+
+https://www.mpllaboratories.com/Services.aspx?action=list&TopServiceCategoryID=22&ServiceCategoryID=22&device=m&network=g&keyword=dietary%20supplement%20testing%20labs&matchtype=e&creative=607538834832&gclid=EAIaIQobChMIkrGptoe7_QIVbm5vBB03Rgq4EAAYASAAEgKMPPD_BwE
+
+https://esha.com/genesis-rd-product-development-supplement-labeling-compliance/?creative=599882152229&matchtype=b&network=g&device=m&adposition=&keyword=dietary%20supplement%20formulation&utm_source=google&utm_medium=cpc&utm_campaign=genesis-supplements&gclid=EAIaIQobChMImtaO2Ia7_QIVaWxvBB1teADuEAAYBCAAEgI1wvD_BwE
+
+https://phys.org/news/2022-03-medicines-3d-printed-seconds.html
+
+https://www.aprecia.com/technology
+
+
+https://www.nutracapusa.com/start-here/?utm_source=Google_Ads&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4oL8AzlYynVHqsfVHC3-_thaw1v7qAw9XA9idtfLwnCneOS7d2ZW8aAoA4EALw_wcB
+
+   https://www.ipharmachine.com/?fbclid=IwAR3KmrU_GedXjEneinM65kHJGM6M6fgSqkyy0MyemvesmdIjZQJwlfWZmNo
+   
+   https://drive.google.com/file/d/1wPtcYAhPhc3xZDEM9DDyIrmx4nxWadJ6/view
+   
+   The PTO won't grant a patent on any new drug unless the applicant can show that not only is it useful in treating some condition, but also that it's relatively safe for its intended purpose.' put another way, the pto considers an unsafe drug useless.  Most drug patent applications won't be allowed unless the FDA has approved tests of the drug for efficacy and safety, but drugs that are generally recognized as safe, or are in a 'safe' chemical category with known safe drugs, don't need prior fda approval to be patentable.  for example, one inventor was able to patent the use of chili peppers to treat baldness since chilies were known to be safe.'
+ 
+
+
+----------------------------
 books
   https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
   
   https://www.linkedin.com/feed/update/urn:li:activity:7006165405937373184/?utm_source=share&utm_medium=member_desktop
   
   https://books.google.com/books/about/Why_Digital_Transformations_Fail.html?id=L_T1uwEACAAJ
+  
+  
+  https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837
+  
+  Patent it Yourself NOLO
   ------------------------------------------
   tasty treats
   
   https://www.submariner-network.eu/recipe-for-a-veggie-burger-with-algae
+  
+   
+   
   
