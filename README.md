@@ -14,6 +14,12 @@ for fraction of sp3 hybridized carbons (a measure of selectivity of binding)-- l
 alogp and psa with an r^2 of 1 on test data. 
 mglur5 (autism target), hsp90a (neuroinflammatory target, charcot marie tooth disease), calpain 1 (covid 19 target), aphid mortality model. r^2 of 1 with elastic, lasso, and lasso_lars models
 
+DeepChem Tox21
+
+train_scores: {'mean-roc_auc_score': 0.9437261510314645}
+
+ test_scores: {'mean-roc_auc_score': 0.7088654555374828}
+
 on the QED test data set--
 Mean absolute error: 0.14206431066163
 Mean squared error: 0.84021645902190
