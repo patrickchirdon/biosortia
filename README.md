@@ -1,3 +1,91 @@
+
+Metabolism, Excretion, Toxicity, Medicinal Chemistry, Phyiochemical Property, Absorption, Distribution
+MS Peaks to Properties Prediction. Upload mass to charge ratios from mass spectroscopy and the calculator will make predictions
+
+Phase 0 of a clinical trial before animal testing is a combination of Autodock Vina/ Rosetta docking with structures from Alphafold/Meta/RCSB, QSAR modeling using chembl or pubchem, or using structures generated from scaffolds in Data Warrior. If you do not know your structures in SMILES format, or substructures known as SMARTs, you can use MSNovelist to make a best guess of your structures. ADMET properties can be calculated with SwissADME or ADMETlab2.0. Phases 1 - 3 can be done with CROs and hospital systems 
+
+
+About
+logS 
+
+The logarithm of aqueous solubility value. The first step in the drug absorption process is the disintegration of the tablet or capsule, followed by the dissolution of the active drug. Low solubility is detrimental to good and complete oral absorption, and early measurement of this property is of great importance in drug discovery. Results interpretation: The predicted solubility of a compound is given as the logarithm of the molar concentration (log mol/L). Compounds in the range from -4 to 0.5 log mol/L will be considered proper. 
+
+logP 
+
+The logarithm of the n-octanol/water distribution coefficient. log P possess a leading position with considerable impact on both membrane permeability and hydrophobic binding to macromolecules, including the target receptor as well as other proteins like plasma proteins, transporters, or metabolizing enzymes. Results interpretation: The predicted logP of a compound is given as the logarithm of the molar concentration (log mol/L). Compounds in the range from 0 to 3 log mol/L will be considered proper. logD7.4 
+
+The logarithm of the n-octanol/water distribution coefficients at pH=7.4. To exert a therapeutic effect, one drug must enter the blood circulation and then reach the site of action. Thus, an eligible drug usually needs to keep a balance between lipophilicity and hydrophilicity to dissolve in the body fluid and penetrate the biomembrane effectively. Therefore, it is important to estimate the n-octanol/water distribution coefficients at physiological pH (logD7.4) values for candidate compounds in the early stage of drug discovery. Results interpretation: The predicted logD7.4 of a compound is given as the logarithm of the molar concentration (log mol/L). Compounds in the range from 1 to 3 log mol/L will be considered proper. 
+
+QED 
+
+A measure of drug-likeness based on the concept of desirability. QED is calculated by integrating the outputs of the desirability functions based on eight drug-likeness related properties, including MW, log P, NHBA, NHBD, PSA, Nrotb, the number of aromatic rings (NAr), and the number of alerts for undesirable functional groups. Here, average descriptor weights were used in the calculation of QED. The QED score is calculated by taking the geometric mean of the individual desirability functions, given by QED=exp⁡(1n∑i=1nln⁡di)QED=exp(n1​∑i=1n​lndi​), where di indicates the dthdesirability function and n = 8 is the number of drug-likeness related properties. Results interpretation: The mean QED is 0.67 for the attractive compounds, 0.49 for the unattractive compounds and 0.34 for the unattractive compounds considered too complex. Empirical decision: > 0.67: excellent; ≤ 0.67: poor 
+
+Fsp3 
+
+Fsp3, the number of sp3 hybridized carbons/total carbon count, is used to determine the carbon saturation of molecules and characterize the complexity of the spatial structure of molecules. It has been demonstrated that the increased saturation measured by Fsp3 and the number of chiral centers in the molecule increase the clinical success rate, which might be related to the increased solubility, or the fact that the enhanced 3D features allow small molecules to occupy more target space. Results interpretation: Fsp3 ≥ 0.42 is considered a suitable value. Empirical decision: ≥ 0.42：excellent; ＜0.42: poor 
+
+NPscore The Natural Product-likeness score is a useful measure which can help to guide the design of new molecules toward interesting regions of chemical space which have been identified as “bioactive regions” by natural evolution. The calculation consists of molecule fragmentation, table lookup, and summation of fragment contributions. Results interpretation: The calculated score is typically in the range from −5 to 5. The higher the score is, the higher the probability is that the molecule is a NP. 
+
+Lipinski Rule 
+
+Content: MW≤500; logP≤5; Hacc≤10; Hdon≤5 Results interpretation: If two properties are out of range, a poor absorption or permeability is possible, one is acceptable. Empirical decision: < 2 violations：excellent ；≥2 violations: poor 
+
+PAINS 
+
+Pan Assay Interference Compounds (PAINS) is one of the most famous frequent hitters filters, which comprises 480 substructures derived from the analysis of FHs determined by six target-based HTS assay. By application of these filters, it is easier to screen false positive hits and to flag suspicious compounds in screening databases. One of the most authoritative medicine magazines Journal of Medicinal Chemistry even requires authors to provide the screening results with the PAINS alerts of active compounds when submitting manuscripts. Results interpretation: If the number of alerts is not zero, the users could check the substructures by the DETIAL button. 
+
+Chelator Rule 
+
+Chelating compounds. There are 55 substructures in this endpoint. 
+
+Caco-2 Permeability 
+
+Before an oral drug reaches the systemic circulation, it must pass through intestinal cell membranes via passive diffusion, carrier-mediated uptake or active transport processes. The human colon adenocarcinoma cell lines (Caco-2), as an alternative approach for the human intestinal epithelium, has been commonly used to estimate in vivo drug permeability due to their morphological and functional similarities. Thus, Caco-2 cell permeability has also been an important index for an eligible candidate drug compound. Results interpretation: The predicted Caco-2 permeability of a given compound is given as the log cm/s. A compound is considered to have a proper Cao-2 permeability if it has predicted value >-5.15log cm/s. Empirical decision: > -5.15: excellent (green); otherwise: poor (red) 
+
+T1/2 
+
+The half-life of a drug is a hybrid concept that involves clearance and volume of distribution, and it is arguably more appropriate to have reliable estimates of these two properties instead. Result interpretation: Molecules with T1/2 > 3 were classified as T1/2 - (Category 0), while molecules with T1/2 ≤ 3 were classified as T1/2 + (Category 1). The output value is the probability of being T1/2+, within the range of 0 to 1. Empirical decision: 0-0.3: excellent; 0.3-0.7: medium; 0.7-1.0(++): poor 
+
+96 hour fathead minnow LC50 (concentration of the test chemical in water in mg/L that causes 50% of fathead minnow to die after 96 hours). The unit of LC50FM is −log10[(mg/L)/(1000*MW)]. LC50DM 
+
+48 hour Daphnia magna LC50 (concentration of the test chemical in water in mg/L that causes 50% of Daphnia magna to die after 48 hours). The unit of LC50DM is −log10[(mg/L)/(1000*MW)]. NR-AR 
+Tox 21
+H-HT 
+
+The human hepatotoxicity. Drug induced liver injury is of great concern for patient safety and a major cause for drug withdrawal from the market. Adverse hepatic effects in clinical trials often lead to a late and costly termination of drug development programs. Result interpretation: Category 0: H-HT negative(-); Category 1: H-HT positive(+). The output value is the probability of being toxic, within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+IGC50 Androgen receptor (AR), a nuclear hormone receptor, plays a critical role in AR-dependent prostate cancer and other androgen related diseases. Endocrine disrupting chemicals (EDCs) and their interactions with steroid hormone receptors like AR may cause disruption of normal endocrine function as well as interfere with metabolic homeostasis, reproduction, developmental and behavioral functions. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being AR agonists, within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+NR-AR-LBD Androgen receptor (AR), a nuclear hormone receptor, plays a critical role in AR-dependent prostate cancer and other androgen related diseases. Endocrine disrupting chemicals (EDCs) and their interactions with steroid hormone receptors like AR may cause disruption of normal endocrine function as well as interfere with metabolic homeostasis, reproduction, developmental and behavioral functions. Result interpretation: Category 1: actives ; Category 0: inactives. Molecules that labeled 1 in this bioassay may bind to the LBD of androgen receptor. The output value is the probability of being actives, within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+NR-AhR The Aryl hydrocarbon Receptor (AhR), a member of the family of basic helix-loop-helix transcription factors, is crucial to adaptive responses to environmental changes. AhR mediates cellular responses to environmental pollutants such as aromatic hydrocarbons through induction of phase I and II enzymes but also interacts with other nuclear receptor signaling pathways. Result interpretation: Category 1: actives ; Category 0: inactives. Molecules that labeled 1 may activate the aryl hydrocarbon receptor signaling pathway. The output value is the probability of being actives, within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+NR-Aromatase Endocrine disrupting chemicals (EDCs) interfere with the biosynthesis and normal functions of steroid hormones including estrogen and androgen in the body. Aromatase catalyzes the conversion of androgen to estrogen and plays a key role in maintaining the androgen and estrogen balance in many of the EDC-sensitive organs. Result interpretation: Category 1: actives ; Category 0: inactives. Molecules that labeled 1 are regarded as aromatase inhibitors that could affect the balance between androgen and estrogen. The output value is the probability of being actives, within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+NR-ER Estrogen receptor (ER), a nuclear hormone receptor, plays an important role in development, metabolic homeostasis and reproduction. Endocrine disrupting chemicals (EDCs) and their interactions with steroid hormone receptors like ER causes disruption of normal endocrine function. Therefore, it is important to understand the effect of environmental chemicals on the ER signaling pathway. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being actives within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+NR-ER-LBD Estrogen receptor (ER), a nuclear hormone receptor, plays an important role in development, metabolic homeostasis and reproduction. Two subtypes of ER, ER-alpha and ER-beta have similar expression patterns with some uniqueness in both types. Endocrine disrupting chemicals (EDCs) and their interactions with steroid hormone receptors like ER causes disruption of normal endocrine function. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being actives within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+NR-PPAR-gamma The peroxisome proliferator-activated receptors (PPARs) are lipid-activated transcription factors of the nuclear receptor superfamily with three distinct subtypes namely PPAR alpha, PPAR delta (also called PPAR beta) and PPAR gamma (PPARg). All these subtypes heterodimerize with Retinoid X receptor (RXR) and these heterodimers regulate transcription of various genes. PPAR-gamma receptor (glitazone receptor) is involved in the regulation of glucose and lipid metabolism. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being actives within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+SR-ARE Oxidative stress has been implicated in the pathogenesis of a variety of diseases ranging from cancer to neurodegeneration. The antioxidant response element (ARE) signaling pathway plays an important role in the amelioration of oxidative stress. The CellSensor ARE-bla HepG2 cell line (Invitrogen) can be used for analyzing the Nrf2/antioxidant response signaling pathway. Nrf2 (NF-E2-related factor 2) and Nrf1 are transcription factors that bind to AREs and activate these genes. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being actives within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+SR-ATAD5 ATPase family AAA domain-containing protein 5. As cancer cells divide rapidly and during every cell division they need to duplicate their genome by DNA replication. The failure to do so results in the cancer cell death. Based on this concept, many chemotherapeutic agents were developed but have limitations such as low efficacy and severe side effects etc. Enhanced Level of Genome Instability Gene 1 (ELG1; human ATAD5) protein levels increase in response to various types of DNA damage. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being actives within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+SR-HSE Heat shock factor response element. Various chemicals, environmental and physiological stress conditions may lead to the activation of heat shock response/ unfolded protein response (HSR/UPR). There are three heat shock transcription factors (HSFs) (HSF-1, -2, and -4) mediating transcriptional regulation of the human HSR. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being actives within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+SR-MMP Mitochondrial membrane potential (MMP), one of the parameters for mitochondrial function, is generated by mitochondrial electron transport chain that creates an electrochemical gradient by a series of redox reactions. This gradient drives the synthesis of ATP, a crucial molecule for various cellular processes. Measuring MMP in living cells is commonly used to assess the effect of chemicals on mitochondrial function; decreases in MMP can be detected using lipophilic cationic fluorescent dyes. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being actives within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+SR-p53 p53, a tumor suppressor protein, is activated following cellular insult, including DNA damage and other cellular stresses. The activation of p53 regulates cell fate by inducing DNA repair, cell cycle arrest, apoptosis, or cellular senescence. The activation of p53, therefore, is a good indicator of DNA damage and other cellular stresses. Result interpretation: Category 1: actives ; Category 0: inactives. The output value is the probability of being actives within the range of 0 to 1. Empirical decision: 0-0.3: excellent (green); 0.3-0.7: medium (yellow); 0.7-1.0(++): poor (red) 
+
+Agrawal A, Johnson S L, Jacobsen J A, et al. Chelator fragment libraries for targeting metalloproteinases[J]. ChemMedChem, 2010, 5(2): 195-9. 
+
+Ertl P, Roggo S, Schuffenhauer A. Natural product-likeness score and its application for prioritization of compound libraries[J]. J Chem Inf Model, 2008, 48(1): 68-74. 
+
+
+
+
+----------------------------------------------
 Results
 
 https://www.slideshare.net/PatrickChirdon1/biosortia2proppptx?fbclid=IwAR26psj1zzyKpBClr-FbtDCS4pg0tfsc613hVGixxt84aE5jcVqgz9NyPT8
