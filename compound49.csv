@@ -1,0 +1,4 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+47,levetiracetam,154.0856,CC[C@@H](C(=O)N)N1CCCC1=O  ,170.212,-0.1273,2,1,63.4,3,0,0,0.6410492146,,,,0,0.75,-4.93,,,,,,,,,-0.758,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0
+,,259.1352,,170.212,-0.1273,2,1,63.4,3,0,0,0.6410492146,,,,0,0.75,-4.93,,,,,,,,,-0.758,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.758,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0

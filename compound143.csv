@@ -1,0 +1,3 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+139,iohexol,821.8989,CC(=O)N(CC(CO)O)C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I  ,821.141,-1.6274999,9,8,199.89,12,1,1,0.11425581,,,,0,0.526,-6.05,,,,,,,,,-0.373,0,0.6,0,0,0,0.4,0,0,0.4,0,0,0,0
+,,45.2,,821.141,-1.6274999,9,8,199.89,12,1,1,0.11425581,,,,0,0.526,-6.05,,,,,,,,,-0.373,0,0.6,0,0,0,0.4,0,0,0.4,0,0,0,0

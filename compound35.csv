@@ -1,0 +1,5 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+34,vardenafil,490.2308,CCCC1=NC(=C2N1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)CC)OCC)C  ,488.614,2.07042,7,1,112.9,8,3,0,0.5164114875,,,,0,0.522,-4.966,,,,,,,,,-1.692,0,0,0,0,0.2,0,0,0,0.8,0,0,0,0
+,,491.2284,,488.614,2.07042,7,1,112.9,8,3,0,0.5164114875,,,,0,0.522,-4.966,,,,,,,,,,0,0,0,0,0.2,0,0,0,0.8,0,0,0,0
+,,121.0274,,488.614,2.07042,7,1,112.9,8,3,0,0.5164114875,,,,0,0.522,-4.966,,,,,,,,,,0,0,0,0,0.2,0,0,0,0.8,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0.2,0,0,0,0.8,0,0,0,0

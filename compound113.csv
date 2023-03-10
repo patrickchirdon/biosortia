@@ -1,0 +1,5 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+109,fludrocortisone,177.1123,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2([C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O)F  ,380.456,1.8737,5,3,94.83,2,0,0,0.6798949641,,,,0,0.81,-4.957,,,,,,,,,2.202,0,1,1,0.2,0.6,0.6,0,0,0,0,0,0.4,0
+,,118.064,,380.456,1.8737,5,3,94.83,2,0,0,0.6798949641,,,,0,0.81,-4.957,,,,,,,,,2.202,0,1,1,0.2,0.6,0.6,0,0,0,0,0,0.4,0
+,,,,,,,,,,,,,,,,0,0.81,-4.957,,,,,,,,,2.202,0,1,1,0.2,0.6,0.6,0,0,0,0,0,0.4,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,2.202,0,1,1,0.2,0.6,0.6,0,0,0,0,0,0.4,0

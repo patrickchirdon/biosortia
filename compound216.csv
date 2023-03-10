@@ -1,0 +1,4 @@
+molecule number,FDA approved name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half life,logs,logd,bioconcen,igc50,lc50fm,lc50dm
+216,rolitetracycline,410.1225, C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)NCN5CCCC5)N(C)C)O  ,527.574,0.3132,10,6,170.87,4,1,1,0.2995990209,,,,,,,,,,
+,,428.1322,,527.574,0.3132,10,6,170.87,4,1,1,0.2995990209,,,,,,,,,,
+,,132,,527.574,0.3132,10,6,170.87,4,1,1,0.2995990209,,,,,,,,,,

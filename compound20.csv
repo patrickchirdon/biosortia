@@ -1,0 +1,3 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+20,Bicalutamide,226.952,CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O ,430.379,2.87958,5,2,107.26,5,2,2,0.5604120761,,,,0,0.222,-5.169,,,,,,,,,-1.636,0,0.6,0.2,0.2,0.8,0.2,0,0.8,0.6,0,0,0.8,0.8
+,,165.0683,,430.379,2.87958,5,2,107.26,5,2,2,0.5604120761,,,,0,0.222,-5.169,,,,,,,,,-1.636,0,0.6,0.2,0.2,0.8,0.2,0,0.8,0.6,0,0,0.8,0.8

@@ -1,0 +1,5 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+32,Telmisartan,516.2518,CCCC1=NC2=C(N1CC3=CC=C(C=C3)C4=CC=CC=C4C(=O)O)C=C(C=C2C)C5=NC6=CC=CC=C6N5C,500.602,7.25402,4,2,83.8,7,6,0,0.2417059409,,,,0,0.182,-4.865,,,,,,,,,-0.993,0,0,0,0.6,0.8,0.8,0,1,1,0.2,0.6,0.8,0.8
+,,517.2547,,500.602,7.25402,4,2,83.8,7,6,0,0.2417059409,,,,0,0.182,-4.865,,,,,,,,,,0,0,0,0.6,0.8,0.8,0,1,1,0.2,0.6,0.8,0.8
+,,174.1104,,500.602,7.25402,4,2,83.8,7,6,0,0.2417059409,,,,0,0.182,-4.865,,,,,,,,,,0,0,0,0.6,0.8,0.8,0,1,1,0.2,0.6,0.8,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0.6,0.8,0.8,0,1,1,0.2,0.6,0.8,0.8

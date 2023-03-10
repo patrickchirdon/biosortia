@@ -1,0 +1,4 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+187,butylparaben,139.0375, CCCCOC(=O)C1=CC=C(C=C1)O  ,194.23,2.3491,3,1,46.53,4,1,2,0.590786349,,,,0,0.364,-4.457,,,,,,,,,0.131,0,0,0,0.6,0,1,1,0,0.2,0.8,0.2,0.8,0.4
+,,140.0403,,194.23,2.3491,3,1,46.53,4,1,2,0.590786349,,,,0,0.364,-4.457,,,,,,,,,0.131,0,0,0,0.6,0,1,1,0,0.2,0.8,0.2,0.8,0.4
+,,66.8,,194.23,2.3491,3,1,46.53,4,1,2,0.590786349,,,,0,0.364,-4.457,,,,,,,,,0.131,0,0,0,0.6,0,1,1,0,0.2,0.8,0.2,0.8,0.4

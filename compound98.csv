@@ -1,0 +1,5 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+94,indapamide,133.0803,CC1CC2=CC=CC=C2N1NC(=O)C3=CC(=C(C=C3)Cl)S(=O)(=O)N,365.842,2.0834,4,2,92.5,3,2,0,0.8705249451,,,,0,0.188,-4.538,,,,,,,,,-1.648,0,0.2,0.2,0.2,0,0.2,0,0,0.4,0,0,0.2,0
+,,234.9879,,365.842,2.0834,4,2,92.5,3,2,0,0.8705249451,,,,0,0.188,-4.538,,,,,,,,,-1.648,0,0.2,0.2,0.2,0,0.2,0,0,0.4,0,0,0.2,0
+,,233.1073,,365.842,2.0834,4,2,92.5,3,2,0,0.8705249451,,,,0,0.188,-4.538,,,,,,,,,-1.648,0,0.2,0.2,0.2,0,0.2,0,0,0.4,0,0,0.2,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.648,0,0.2,0.2,0.2,0,0.2,0,0,0.4,0,0,0.2,0

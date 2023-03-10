@@ -1,0 +1,2 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+116,furosemide,43.6,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl  ,330.749,1.8907,6,3,122.6299999999,5,2,0,0.7689363928,,,,0,0.083,-6.142,,,,,,,,,-1.771,0,0.8,0,0,0,0.2,0,0,0,0,0,0,0

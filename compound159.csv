@@ -1,0 +1,4 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+155,miconazole,120.089,C1=CC(=C(C=C1Cl)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl  ,416.135,6.4548,2,0,27.05,6,3,0,0.4616906208,,,,0,0.167,-4.537,,,,,,,,,-0.919,0,0,0,1,1,0,0.4,0,1,0,1,0.8,0.8
+,,135.0794,,416.135,6.4548,2,0,27.05,6,3,0,0.4616906208,,,,0,0.167,-4.537,,,,,,,,,-0.919,0,0,0,1,1,0,0.4,0,1,0,1,0.8,0.8
+,,119.0847,,416.135,6.4548,2,0,27.05,6,3,0,0.4616906208,,,,0,0.167,-4.537,,,,,,,,,-0.919,0,0,0,1,1,0,0.4,0,1,0,1,0.8,0.8

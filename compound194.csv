@@ -1,0 +1,4 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+193,flucytosine,113.015,C1=NC(=O)NC(=C1F)N  ,129.094,-0.5088,3,2,71.77,0,1,0,0.4952172017,,,,0,0,-5.082,,,,,,,,,-0.439,0,0,0,0,0,0,0,0,0,0.6,0,0,0.6
+,,130.0405,,129.094,-0.5088,3,2,71.77,0,1,0,0.4952172017,,,,0,0,-5.082,,,,,,,,,-0.439,0,0,0,0,0,0,0,0,0,0.6,0,0,0.6
+,,91.0547,,129.094,-0.5088,3,2,71.77,0,1,0,0.4952172017,,,,0,0,-5.082,,,,,,,,,-0.439,0,0,0,0,0,0,0,0,0,0.6,0,0,0.6

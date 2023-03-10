@@ -1,0 +1,5 @@
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
+26,Gemcitabine,144.9908,C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F  ,263.2,-1.2886,6,3,110.6,2,1,0,0.6120873727,,,,0,0.556,-5.817,,,,,,,,,1.141,0,0,0,0,0,0.2,0.2,0,0.2,0,0,0,1
+,,163.0019,,263.2,-1.2886,6,3,110.6,2,1,0,0.6120873727,,,,0,0.556,-5.817,,,,,,,,,1.141,0,0,0,0,0,0.2,0.2,0,0.2,0,0,0,1
+,,42.1,,263.2,-1.2886,6,3,110.6,2,1,0,0.6120873727,,,,0,0.556,-5.817,,,,,,,,,1.141,0,0,0,0,0,0.2,0.2,0,0.2,0,0,0,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,1.141,0,0,0,0,0,0.2,0.2,0,0.2,0,0,0,1
