@@ -1,5 +1,5 @@
-molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
-5,Piperacetazine,170.1543,CC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCC(CC4)CCO  ,410.583,4.9764,5,1,43.78,7,2,1,0.652572857,,,,0,0.458,-4.729,,,,,,,,,-0.845,0,0.6,0,0.4,0.8,0.2,0,0,0.6,0,0.4,0.2,0.6
-,,254.0635,,410.583,4.9764,5,1,43.78,7,2,1,0.652572857,,,,0,0.458,-4.729,,,,,,,,,,,,,,,,,,,,,,
-,,411.2088,,410.583,4.9764,5,1,43.78,7,2,1,0.652572857,,,,0,0.458,-4.729,,,,,,,,,,,,,,,,,,,,,,
-,,103.0546,,410.583,4.9764,5,1,43.78,7,2,1,0.652572857,,,,0,0.458,-4.729,,,,,,,,,,,,,,,,,,,,,,
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53,herg,hepatotox,ames,skin,dili
+5,Piperacetazine,170.1543,CC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCC(CC4)CCO  ,410.583,4.9764,5,1,43.78,7,2,1,0.652572857,,,,0,0.458,-4.729,,,,,,,,,-0.845,0,0.6,0,0.4,0.8,0.2,0,0,0.6,0,0.4,0.2,0.6,0.986,0.326,0.254,0.364,0.608
+,,254.0635,,410.583,4.9764,5,1,43.78,7,2,1,0.652572857,,,,0,0.458,-4.729,,,,,,,,,,,,,,,,,,,,,,,0.986,0.326,0.254,0.364,0.608
+,,411.2088,,410.583,4.9764,5,1,43.78,7,2,1,0.652572857,,,,0,0.458,-4.729,,,,,,,,,,,,,,,,,,,,,,,0.986,0.326,0.254,0.364,0.608
+,,103.0546,,410.583,4.9764,5,1,43.78,7,2,1,0.652572857,,,,0,0.458,-4.729,,,,,,,,,,,,,,,,,,,,,,,0.986,0.326,0.254,0.364,0.608

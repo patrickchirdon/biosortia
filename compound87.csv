@@ -1,4 +1,4 @@
-molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
-83,captopril,172.0788,C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O ,217.289999,0.6279,3,2,57.61,3,0,1,0.6816110954,,,,0,0.778,-5.897,,,,,,,,,0.113,0,0.4,0,0,0,0.4,0,0,0.2,0,0,0,0
-,,218.0852,,217.289999,0.6279,3,2,57.61,3,0,1,0.6816110954,,,,0,0.778,-5.897,,,,,,,,,0.113,0,0.4,0,0,0,0.4,0,0,0.2,0,0,0,0
-,,84.082,,217.289999,0.6279,3,2,57.61,3,0,1,0.6816110954,,,,0,0.778,-5.897,,,,,,,,,0.113,0,0.4,0,0,0,0.4,0,0,0.2,0,0,0,0
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53,ld50
+83,captopril,172.0788,C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O ,217.289999,0.6279,3,2,57.61,3,0,1,0.6816110954,,,,0,0.778,-5.897,,,,,,,,,0.113,0,0.4,0,0,0,0.4,0,0,0.2,0,0,0,0,2.225
+,,218.0852,,217.289999,0.6279,3,2,57.61,3,0,1,0.6816110954,,,,0,0.778,-5.897,,,,,,,,,0.113,0,0.4,0,0,0,0.4,0,0,0.2,0,0,0,0,2.225
+,,84.082,,217.289999,0.6279,3,2,57.61,3,0,1,0.6816110954,,,,0,0.778,-5.897,,,,,,,,,0.113,0,0.4,0,0,0,0.4,0,0,0.2,0,0,0,0,2.225

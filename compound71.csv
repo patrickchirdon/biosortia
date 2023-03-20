@@ -1,2 +1,2 @@
-molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53
-67,nitrofuarntoin,125.0146,O=[N+]([O-])c2oc(/C=N/N1C(=O)NC(=O)C1)cc2,238.159,0.0735,5,1,118.04999999,3,1,4,0.345747846,,,,0,0,-4.218,,,,,,,,,-1.356,0,0,0,0,0,0,0,0,0.8,0,0,0.4,0
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53,herg
+67,nitrofuarntoin,125.0146,O=[N+]([O-])c2oc(/C=N/N1C(=O)NC(=O)C1)cc2,238.159,0.0735,5,1,118.04999999,3,1,4,0.345747846,,,,0,0,-4.218,,,,,,,,,-1.356,0,0,0,0,0,0,0,0,0.8,0,0,0.4,0,0.128

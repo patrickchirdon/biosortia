@@ -1,5 +1,5 @@
-molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53,
-65,sulfathiazole,212.9786,C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2  ,255.324,1.526099,4,2,85.08,3,2,1,0.8143349413,,,,0,0,-4.946,,,,,,,,,-1.805,0,0,0,0,0,0.4,0,0,0.2,0,0,0.4,0.4,1
-,,256.0153,,255.324,1.526099,4,2,85.08,3,2,1,0.8143349413,,,,0,0,-4.946,,,,,,,,,,0,0,0,0,0,0.4,0,0,0.2,0,0,0.4,0.4,1
-,,38.8,,255.324,1.526099,4,2,85.08,3,2,1,0.8143349413,,,,0,0,-4.946,,,,,,,,,,0,0,0,0,0,0.4,0,0,0.2,0,0,0.4,0.4,1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0.4,0,0,0.2,0,0,0.4,0.4,1
+molecule,number,FDA,approved,name,mz,smiles,mw,alogp,hba,hbd,psa,rotb,arom,alerts,qed,pains,fsp3,cacao,half,life,logs,logd,bioconcen,igc50,lc50fm,lc50dm,npscore,chelator,Nr-ar,Nr-ar-lbd,Nr-ahr,Nr-aromatase,Nr-er,Nr-er-lbd,Nr-ppar-gamma,Sr-are,Sr-atad5,Sr-hse,Sr-mmp,Sr-p53,herg,ldg50
+65,sulfathiazole,212.9786,C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2  ,255.324,1.526099,4,2,85.08,3,2,1,0.8143349413,,,,0,0,-4.946,,,,,,,,,-1.805,0,0,0,0,0,0.4,0,0,0.2,0,0,0.4,0.4,1,2.078
+,,256.0153,,255.324,1.526099,4,2,85.08,3,2,1,0.8143349413,,,,0,0,-4.946,,,,,,,,,,0,0,0,0,0,0.4,0,0,0.2,0,0,0.4,0.4,1,2.078
+,,38.8,,255.324,1.526099,4,2,85.08,3,2,1,0.8143349413,,,,0,0,-4.946,,,,,,,,,,0,0,0,0,0,0.4,0,0,0.2,0,0,0.4,0.4,1,2.078
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0.4,0,0,0.2,0,0,0.4,0.4,1,2.078
